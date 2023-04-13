@@ -3,5 +3,5 @@
 
   Holiday is fully responsive, mobile-friendly travel website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-  <a href="https://https://deepakkumar1737.github.io/Holiday_travel_website//"><strong>➥ Live Demo</strong></a>
+  <a href="https://deepakkumar1737.github.io/Holiday_travel_website/"><strong>➥ Live Demo</strong></a>
 <div>
